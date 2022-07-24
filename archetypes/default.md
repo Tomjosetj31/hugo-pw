@@ -1,7 +1,7 @@
 ---
 title: '{{ humanize .Name }}'
 description: ''
-date: {{ .Date }}
+date: 12-12-2022
 draft: true
 categories: []
 tags: []
